@@ -146,7 +146,7 @@ bits of text to the paragraph to make it stand out a little.
 
 ```html
 <p>
-  We're writing HTML markup to display in our <strong>browser</strong>. We're
+  We're writing HTML markup to display in our <strong> browser </strong>. We're
   basically telling computers what to do. <em>Neat!</em>
 </p>
 ```
